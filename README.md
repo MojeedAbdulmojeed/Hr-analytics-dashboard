@@ -47,7 +47,7 @@ This project showcases skills in:
 ##  **How to Use**
 
 1. Download the repository
-2. Open the `.pbix` file in **Power BI Desktop**
+2. Open the `HR Data Set.pbix` file in **Power BI Desktop**
 3. Refresh the dataset if needed
 4. Explore the interactive visuals and slicers
 
