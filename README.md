@@ -1,4 +1,4 @@
-# **Employee Metrics Dashboard**
+#**Employee Metrics Dashboard**
 This project provides a comprehensive analysis of an HR dataset using **Excel** for data cleaning and **Power BI** for visualization and dashboard development. The goal is to uncover insights related to employee engagement, training outcomes, performance ratings, and departmental metrics.
 
 ---
@@ -56,6 +56,4 @@ This project showcases skills in:
 ## **Contributions**
 
 Contributions, improvements, and suggestions are welcome. Feel free to submit pull requests or open issues.
-
-Just say **“make it more professional”** or **“add badges”**.
 
